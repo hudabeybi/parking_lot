@@ -1,0 +1,7 @@
+create_parking_lot=com.huda.command.ParkingLotCreateCommand
+park=com.huda.command.ParkCommand
+leave=com.huda.command.LeaveCommand
+status=com.huda.command.StatusCommand
+registration_numbers_for_cars_with_colour=com.huda.command.RegistrationNumberByColorCommand
+slot_numbers_for_cars_with_colour=com.huda.command.SlotNumberForCarsByColorCommand
+slot_number_for_registration_number=com.huda.command.SlotNumberByRegistrationNumberCommand
