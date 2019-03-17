@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="parking_lot/src/main/java"/>
+	<classpathentry kind="lib" path="parking_lot/bin/main/packages/hamcrest-all-1.3.jar"/>
+	<classpathentry kind="lib" path="parking_lot/bin/main/packages/junit-4.13-beta-2.jar"/>
+	<classpathentry kind="lib" path="parking_lot/gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
