@@ -1,6 +1,6 @@
 cd ..
-./gradlew
-cd bin
-cd main
+call gradlew compileJava
+cp -r build/classes/java/main  bin/main
+cd bin/main
 java -cp packages/junit-4.13-beta-2.jar;packages/hamcrest-all-1.3.jar;. com.huda.unittesting.TestRunner
 cd ..
